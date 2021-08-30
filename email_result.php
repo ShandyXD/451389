@@ -1,0 +1,3 @@
+<?
+$result = "email@gmail.com";
+?>
